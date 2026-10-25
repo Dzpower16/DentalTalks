@@ -22,7 +22,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 NEWS = os.path.join(os.path.dirname(HERE), 'news_card')
 FONTS = open(os.path.join(NEWS, 'fonts', 'fonts.local.css')).read().replace('url(', f"url(file://{NEWS}/fonts/")
 LOGO = f"file://{NEWS}/smileflow-logo.png"
-NB = ' '
+NB = '\u00a0'
 V, V2, L, INK = '#8A2BE2', '#5E28D9', '#EDE6F9', '#0F172A'
 
 def fr(t):

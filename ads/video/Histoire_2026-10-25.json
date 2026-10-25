@@ -1,0 +1,75 @@
+{
+ "titre": "Le fauteuil 3",
+ "duree": 72,
+ "scenes": [
+  {
+   "heure": "Mardi, 15 h 04",
+   "texte": "Le fauteuil 3 est vide. La lampe, éteinte.",
+   "debut": 0,
+   "scene": "fauteuil",
+   "horloge": "15 h 04"
+  },
+  {
+   "texte": "Il y a trois ans, Dre Nadia a racheté cette clinique.",
+   "debut": 5
+  },
+  {
+   "texte": "Depuis, chaque trou dans l'horaire, elle le sent.",
+   "debut": 9.5
+  },
+  {
+   "texte": "Et le soir, une petite voix demande : « As-tu fait le bon choix ? »",
+   "debut": 14
+  },
+  {
+   "heure": "La veille, 7 h 52",
+   "texte": "Une patiente annule. La réception appelle entre deux arrivées. Boîtes vocales.",
+   "debut": 19
+  },
+  {
+   "texte": "Trop tard.",
+   "debut": 24.5,
+   "taille": 1.4
+  },
+  {
+   "heure": "Mardi, 19 h 40",
+   "texte": "Sa fille dort déjà. Nadia finit ses notes cliniques sur la table de la cuisine.",
+   "debut": 27
+  },
+  {
+   "heure": "Jeudi, 10 h 15",
+   "texte": "M. Roy marie sa petite-fille samedi.",
+   "debut": 33
+  },
+  {
+   "style": "replique",
+   "texte": "« J'aurais tellement voulu mon nettoyage avant. Pour les photos. »",
+   "debut": 37
+  },
+  {
+   "texte": "Son nom était là. Sur un papier jaune, sous l'écran. Depuis trois semaines.",
+   "debut": 42.5
+  },
+  {
+   "texte": "Il était à cinq minutes. Il attendait juste un appel.",
+   "debut": 48,
+   "scene": "telephone",
+   "horloge": "5 min"
+  },
+  {
+   "style": "morale",
+   "texte": "Un rendez-vous annulé ne se perd pas quand le patient annule. Il se perd quand personne ne le sait assez vite.",
+   "debut": 53
+  },
+  {
+   "style": "produit",
+   "texte": "La place libérée part par texto à votre liste d'attente : le premier qui répond OUI la prend. Et le soir, vos notes cliniques sont prêtes : vous relisez, vous signez.",
+   "debut": 59.5
+  },
+  {
+   "style": "fin",
+   "texte": "Abonnez-vous pour toutes les nouveautés en dentisterie au Québec, au Canada et dans le monde entier.",
+   "debut": 67
+  }
+ ]
+}
