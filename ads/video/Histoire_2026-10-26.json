@@ -1,0 +1,78 @@
+{
+ "titre": "La table de la cuisine",
+ "duree": 70,
+ "scenes": [
+  {
+   "heure": "Mardi, 21 h 40",
+   "texte": "Table de la cuisine. Café froid. Dix-sept notes cliniques à finir.",
+   "debut": 0.0,
+   "scene": "dossier",
+   "horloge": "21 h 40"
+  },
+  {
+   "texte": "Trois ans plus tôt, Dr Mathieu a signé le prêt pour racheter la clinique.",
+   "debut": 5.5
+  },
+  {
+   "texte": "Ce soir, la petite voix revient : « As-tu fait le bon choix ? »",
+   "debut": 10.5
+  },
+  {
+   "heure": "19 h",
+   "texte": "« Juste cinq minutes, papa ? »",
+   "style": "replique",
+   "debut": 15.5
+  },
+  {
+   "texte": "« Après mes notes, ma puce. » Quand il lève les yeux, Léa dort déjà, le livre ouvert.",
+   "debut": 20.0
+  },
+  {
+   "texte": "Ce matin-là, Mme Bélanger est revenue après des années de peur.",
+   "debut": 26.0
+  },
+  {
+   "texte": "« La prochaine fois, je vais revenir sans trembler. »",
+   "style": "replique",
+   "debut": 31.0
+  },
+  {
+   "heure": "21 h 58",
+   "texte": "Il ne se souvient plus de ce qui l'avait rassurée. La note est correcte. Mais ce n'est pas tout à fait elle.",
+   "debut": 35.5
+  },
+  {
+   "heure": "23 h 12",
+   "texte": "Il ferme le portable. Le livre de Léa est encore ouvert.",
+   "debut": 41.5
+  },
+  {
+   "heure": "Six semaines plus tard",
+   "texte": "Entre deux patients, il relit sa note déjà préparée. Il valide. Il signe.",
+   "debut": 46.0,
+   "scene": "dossier",
+   "horloge": "14 h 10"
+  },
+  {
+   "heure": "19 h",
+   "texte": "« T'as pas ton ordi, ce soir ? »",
+   "style": "replique",
+   "debut": 51.5
+  },
+  {
+   "texte": "Une note écrite à chaud raconte un patient ; une note écrite à minuit ne raconte qu'un dossier.",
+   "style": "morale",
+   "debut": 55.5
+  },
+  {
+   "texte": "SmileFlow prépare vos notes cliniques. Vous relisez, validez et signez avant de rentrer.",
+   "style": "produit",
+   "debut": 60.5
+  },
+  {
+   "texte": "Abonnez-vous pour toutes les nouveautés en dentisterie au Québec, au Canada et dans le monde entier.",
+   "style": "fin",
+   "debut": 65.5
+  }
+ ]
+}
