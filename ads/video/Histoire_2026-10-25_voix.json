@@ -1,6 +1,6 @@
 {
  "titre": "Le fauteuil 3 (voix off)",
- "duree": 97.7,
+ "duree": 97.2,
  "scenes": [
   {
    "heure": "Mardi, 15 h 04",
@@ -11,70 +11,70 @@
   },
   {
    "texte": "Il y a trois ans, Nadia a racheté cette clinique.",
-   "debut": 11.4
+   "debut": 10.9
   },
   {
    "texte": "Depuis, chaque trou dans l'horaire, elle le sent.",
-   "debut": 14.76
+   "debut": 14.26
   },
   {
    "texte": "Et le soir, une petite voix demande : « As-tu fait le bon choix ? »",
-   "debut": 18.5
+   "debut": 18.0
   },
   {
    "heure": "La veille, 7 h 52",
    "texte": "Une patiente annule. La réception appelle entre deux arrivées. Boîtes vocales. Encore des boîtes vocales.",
-   "debut": 25.3
+   "debut": 24.8
   },
   {
    "texte": "Trop tard.",
-   "debut": 35.15,
+   "debut": 34.65,
    "taille": 1.4
   },
   {
    "heure": "Mardi, 19 h 40",
    "texte": "Sa fille dort déjà. Nadia finit ses notes cliniques sur la table de la cuisine.",
-   "debut": 37.16
+   "debut": 36.66
   },
   {
    "heure": "Jeudi, 10 h 15",
    "texte": "M. Roy marie sa petite-fille samedi.",
-   "debut": 47.24
+   "debut": 46.74
   },
   {
    "style": "replique",
    "texte": "« J'aurais tellement voulu mon nettoyage avant. Pour les photos. »",
-   "debut": 53.29
+   "debut": 52.79
   },
   {
    "texte": "Son nom était là. Sur un papier jaune, sous l'écran. Depuis trois semaines.",
-   "debut": 59.91
+   "debut": 59.41
   },
   {
    "texte": "Il était à cinq minutes. Il attendait juste un appel.",
-   "debut": 65.56,
+   "debut": 65.06,
    "scene": "telephone",
    "horloge": "5 min"
   },
   {
    "style": "morale",
    "texte": "Un rendez-vous annulé ne se perd pas quand le patient annule. Il se perd quand personne ne le sait assez vite.",
-   "debut": 70.68
+   "debut": 70.18
   },
   {
    "style": "produit",
    "texte": "La place libérée part par texto à votre liste d'attente : le premier qui répond OUI la prend. Et le soir, vos notes cliniques sont prêtes : vous relisez, vous signez.",
-   "debut": 76.9
+   "debut": 76.4
   },
   {
    "style": "fin",
    "texte": "Abonnez-vous pour toutes les nouveautés en dentisterie au Québec, au Canada et dans le monde entier.",
-   "debut": 90.04
+   "debut": 89.54
   }
  ],
  "voix": {
   "voice": "Mathieu – Warm French Canadian Narrator (ElevenLabs ea8mX8XjQt6IYaKiIshC)",
-  "decalage_voix": 0.5,
+  "decalage_voix": 0.0,
   "flow": "qHxkT0afapCFKoHoPLed",
   "generation": "HvI9o1pXs3jrKQoKZskP"
  }
