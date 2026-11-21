@@ -1,0 +1,85 @@
+{
+ "titre": "La table de la cuisine (voix off)",
+ "duree": 85.0,
+ "scenes": [
+  {
+   "heure": "Mardi, 21 h 40",
+   "texte": "Table de la cuisine. Café froid. Dix-sept notes cliniques à finir.",
+   "debut": 0.0,
+   "scene": "dossier",
+   "horloge": "21 h 40"
+  },
+  {
+   "texte": "Trois ans plus tôt, Dr Mathieu a signé le prêt pour racheter la clinique.",
+   "debut": 7.94
+  },
+  {
+   "texte": "Ce soir, la petite voix revient : « As-tu fait le bon choix ? »",
+   "debut": 11.67
+  },
+  {
+   "heure": "19 h",
+   "texte": "« Juste cinq minutes, papa ? »",
+   "style": "replique",
+   "debut": 16.95
+  },
+  {
+   "texte": "« Après mes notes, ma puce. » Quand il lève les yeux, Léa dort déjà, le livre ouvert.",
+   "debut": 21.75
+  },
+  {
+   "texte": "Ce matin-là, Mme Bélanger est revenue après des années de peur.",
+   "debut": 29.05
+  },
+  {
+   "texte": "« La prochaine fois, je vais revenir sans trembler. »",
+   "style": "replique",
+   "debut": 33.22
+  },
+  {
+   "heure": "21 h 58",
+   "texte": "Il ne se souvient plus de ce qui l'avait rassurée. La note est correcte. Mais ce n'est pas tout à fait elle.",
+   "debut": 38.23
+  },
+  {
+   "heure": "23 h 12",
+   "texte": "Il ferme le portable. Le livre de Léa est encore ouvert.",
+   "debut": 45.84
+  },
+  {
+   "heure": "Six semaines plus tard",
+   "texte": "Entre deux patients, il relit sa note déjà préparée. Il valide. Il signe.",
+   "debut": 51.98,
+   "scene": "dossier",
+   "horloge": "14 h 10"
+  },
+  {
+   "heure": "19 h",
+   "texte": "« T'as pas ton ordi, ce soir ? »",
+   "style": "replique",
+   "debut": 58.58
+  },
+  {
+   "texte": "Une note écrite à chaud raconte un patient ; une note écrite à minuit ne raconte qu'un dossier.",
+   "style": "morale",
+   "debut": 64.5
+  },
+  {
+   "texte": "SmileFlow prépare vos notes cliniques. Vous relisez, validez et signez avant de rentrer.",
+   "style": "produit",
+   "debut": 70.26
+  },
+  {
+   "texte": "Abonnez-vous pour toutes les nouveautés en dentisterie au Québec, au Canada et dans le monde entier.",
+   "style": "fin",
+   "debut": 77.38
+  }
+ ],
+ "voix": {
+  "voice": "Amelie – Quebec, Canada (ElevenLabs UJCi4DDncuo0VJDSIegj)",
+  "modele": "eleven_v4",
+  "decalage_voix": 0.0,
+  "flow": "qHxkT0afapCFKoHoPLed",
+  "generation": "2dixoBkROhyVMb6eSvAo"
+ }
+}
