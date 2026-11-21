@@ -146,7 +146,7 @@ def main():
     os.makedirs(os.path.dirname(os.path.abspath(a.out)) or '.', exist_ok=True)
     tmp = tempfile.mkdtemp()
     music = os.path.join(tmp, 'music.wav')
-    if not a.no_music or not a.voice: make_music(total, music, .32 if not a.voice else .18)
+    if not a.no_music or not a.voice: make_music(total, music, .32 if not a.voice else .30)
     for (w, h, tag) in [(1080, 1920, '916'), (1080, 1350, '45')]:
         pngs = render_frames(scenes, w, h, tmp)
         imgs = [Image.open(p).convert('RGB') for p in pngs]
@@ -174,7 +174,10 @@ def main():
             cmd = ['ffmpeg', '-v', 'error', '-y', '-i', vid, '-i', a.voice, '-filter_complex', '[1:a]adelay=500|500,apad[a]', '-map', '0:v', '-map', '[a]', '-t', str(total), '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', out]
         else:
             cmd = ['ffmpeg', '-v', 'error', '-y', '-i', vid, '-i', a.voice, '-i', music, '-filter_complex',
-                   '[1:a]adelay=500|500,aresample=48000,aformat=channel_layouts=stereo[v];[2:a]aformat=channel_layouts=stereo,volume=0.55[m];[v][m]amix=inputs=2:duration=longest:normalize=0[a]',
+                   # la musique remonte dans les silences et s'efface sous la voix (ducking)
+                   '[1:a]adelay=500|500,aresample=48000,aformat=channel_layouts=stereo,apad,asplit=2[v][vs];'
+                   '[2:a]aformat=channel_layouts=stereo[m];[m][vs]sidechaincompress=threshold=0.02:ratio=5:attack=60:release=1200:makeup=1[md];'
+                   '[v][md]amix=inputs=2:duration=first:normalize=0[a]',
                    '-map', '0:v', '-map', '[a]', '-t', str(total), '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', '-movflags', '+faststart', out]
         subprocess.check_call(cmd)
         if tag == '45': imgs[0].save(f'{a.out}_45.jpg', quality=90)
