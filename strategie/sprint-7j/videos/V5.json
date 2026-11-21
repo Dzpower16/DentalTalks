@@ -1,0 +1,15 @@
+{
+ "titre": "40 hôpitaux, un scribe IA… et au Québec ?",
+ "tag": "Radar mondial",
+ "pied": "Source : Kaiser Permanente, communiqué du 14 août 2024",
+ "scenes": [
+  {"type": "accroche", "taille": 1.2, "pill": "États-Unis", "ecran": "**40 hôpitaux** américains. Un scribe IA pour leurs médecins.", "sans_sous": true, "dit": "40 hôpitaux américains. Un scribe IA pour leurs médecins."},
+  {"type": "texte", "kicker": "Août 2024 · Kaiser Permanente", "ecran": "Un outil qui prépare la documentation clinique **pendant la consultation**, dans ses 40 hôpitaux.", "dit": "En août 2024, le réseau Kaiser Permanente a annoncé le déploiement, dans ses 40 hôpitaux, d'un outil qui prépare la documentation clinique pendant la consultation."},
+  {"type": "texte", "pill": "Québec", "pill_o": true, "ecran": "La vraie question, ce n'est pas « est-ce que ça s'en vient ? ». C'est **« à quelles conditions ? »**", "dit": "Ici, au Québec, la vraie question, ce n'est pas « est-ce que ça s'en vient ? ». C'est « à quelles conditions ? »."},
+  {"type": "liste", "kicker": "3 conditions non négociables", "items": ["Le dentiste relit, valide et signe", "L'audio brut est supprimé après validation", "Les renseignements sont traités selon la Loi 25"], "actif": 0, "dit": "Trois conditions, non négociables."},
+  {"type": "liste", "kicker": "3 conditions non négociables", "items": ["Le dentiste relit, valide et signe", "L'audio brut est supprimé après validation", "Les renseignements sont traités selon la Loi 25"], "actif": 1, "dit": "Un : le dentiste relit, valide et signe."},
+  {"type": "liste", "kicker": "3 conditions non négociables", "items": ["Le dentiste relit, valide et signe", "L'audio brut est supprimé après validation", "Les renseignements sont traités selon la Loi 25"], "actif": 2, "dit": "Deux : l'audio brut est supprimé après validation."},
+  {"type": "liste", "kicker": "3 conditions non négociables", "items": ["Le dentiste relit, valide et signe", "L'audio brut est supprimé après validation", "Les renseignements sont traités selon la Loi 25"], "actif": 3, "dit": "Trois : les renseignements sont traités selon la Loi 25."},
+  {"type": "question", "taille": 1.2, "ecran": "À ces conditions-là, **tu l'essaierais** ?", "cta": "Réponds en commentaire", "sans_sous": true, "dit": "À ces conditions-là, tu l'essaierais ?"}
+ ]
+}

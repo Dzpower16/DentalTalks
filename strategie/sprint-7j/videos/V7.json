@@ -1,0 +1,12 @@
+{
+ "titre": "L'Europe a interdit l'amalgame. Que répondre à vos Patients ?",
+ "tag": "Radar mondial",
+ "pied": "Sources : règlement (UE) 2024/1849 · Santé Canada, position sur les amalgames dentaires",
+ "scenes": [
+  {"type": "accroche", "taille": 1.15, "pill": "Union européenne", "ecran": "Depuis le 1er janvier 2025, l'amalgame est **interdit en Europe**.", "dit": "Depuis le 1er janvier 2025, l'amalgame dentaire est interdit dans l'Union européenne, sauf nécessité médicale."},
+  {"type": "texte", "taille": 1.2, "pill": "Canada", "pill_o": true, "ecran": "Au Canada : **pas d'interdiction**.", "sans_sous": true, "dit": "Au Canada, il n'y a pas d'interdiction."},
+  {"type": "replique", "kicker": "Ce que vos Patients demandent", "ecran": "« Faut-il enlever mes vieux plombages ? »", "dit": "Mais vos Patients voient passer la nouvelle, et ils arrivent avec la question : « Faut-il enlever mes vieux plombages ? »"},
+  {"type": "texte", "kicker": "Santé Canada", "ecran": "Retirer un amalgame en bon état **n'est pas recommandé** chez un Patient sans effet indésirable.", "dit": "Santé Canada répond : retirer un amalgame en bon état n'est pas recommandé chez un Patient qui n'a aucun effet indésirable."},
+  {"type": "question", "taille": 1.1, "ecran": "Toi, comment tu l'expliques **en 30 secondes** au fauteuil ?", "cta": "Réponds en commentaire", "sans_sous": true, "dit": "Toi, comment tu l'expliques en trente secondes au fauteuil ?"}
+ ]
+}

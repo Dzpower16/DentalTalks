@@ -1,0 +1,25 @@
+{
+ "duree": 28.87,
+ "scenes": [
+  {
+   "debut": 0.0,
+   "dit": "Ta chaise vide coûte combien ? Le calcul tient en une ligne."
+  },
+  {
+   "debut": 3.34,
+   "dit": "Valeur moyenne d'une plage, fois le nombre d'absences par semaine, fois le nombre de semaines travaillées."
+  },
+  {
+   "debut": 9.38,
+   "dit": "Exemple, avec des chiffres fictifs : 150 $, 3 absences par semaine, 46 semaines. Ça donne 20 700 $ par année."
+  },
+  {
+   "debut": 18.08,
+   "dit": "Fais-le avec tes vrais chiffres, et enregistre cette vidéo pour la prochaine réunion d'équipe."
+  },
+  {
+   "debut": 23.13,
+   "dit": "Abonnez-vous pour toutes les nouveautés en dentisterie au Québec, au Canada et dans le monde entier."
+  }
+ ]
+}

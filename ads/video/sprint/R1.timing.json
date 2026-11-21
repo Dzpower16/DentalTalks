@@ -1,0 +1,33 @@
+{
+ "duree": 21.35,
+ "scenes": [
+  {
+   "debut": 0.0,
+   "dit": "Les trois phrases qu'on entend au fauteuil."
+  },
+  {
+   "debut": 2.34,
+   "dit": "« Je passe la soie… des fois. »"
+  },
+  {
+   "debut": 4.01,
+   "dit": "« J'avais oublié mon rendez-vous. »"
+  },
+  {
+   "debut": 5.85,
+   "dit": "« Vous auriez une place demain ? »"
+  },
+  {
+   "debut": 7.6,
+   "dit": "La troisième, c'est la seule qui remplit l'agenda. Encore faut-il savoir qu'une place vient de se libérer."
+  },
+  {
+   "debut": 13.32,
+   "dit": "Identifie ton hygiéniste préférée."
+  },
+  {
+   "debut": 15.61,
+   "dit": "Abonnez-vous pour toutes les nouveautés en dentisterie au Québec, au Canada et dans le monde entier."
+  }
+ ]
+}

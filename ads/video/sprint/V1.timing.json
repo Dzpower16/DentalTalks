@@ -1,0 +1,41 @@
+{
+ "duree": 38.57,
+ "scenes": [
+  {
+   "debut": 0.0,
+   "dit": "Tu prends la réception une seule matinée. Bonne chance."
+  },
+  {
+   "debut": 3.29,
+   "dit": "8 h 02 : une Patiente annule son nettoyage de 10 h."
+  },
+  {
+   "debut": 6.89,
+   "dit": "8 h 05 : la liste d'attente… est sur un papier jaune, sous l'écran."
+  },
+  {
+   "debut": 10.91,
+   "dit": "8 h 20 : trois appels. Trois boîtes vocales."
+  },
+  {
+   "debut": 13.91,
+   "dit": "8 h 40 : deux Patients au comptoir, une carte d'assurance illisible, et le téléphone qui sonne encore."
+  },
+  {
+   "debut": 20.46,
+   "dit": "9 h : le bloc de 10 h est toujours vide."
+  },
+  {
+   "debut": 23.38,
+   "dit": "Identifie ta réceptionniste. Elle mérite un café."
+  },
+  {
+   "debut": 26.73,
+   "dit": "Et si la plage libérée partait toute seule par texto à ta liste d'attente ? Le premier qui répond OUI la prend."
+  },
+  {
+   "debut": 32.82,
+   "dit": "Abonnez-vous pour toutes les nouveautés en dentisterie au Québec, au Canada et dans le monde entier."
+  }
+ ]
+}

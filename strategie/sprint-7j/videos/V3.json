@@ -1,0 +1,38 @@
+{
+ "titre": "21 h 40, table de la cuisine (version 40 s)",
+ "duree": 40.5,
+ "scenes": [
+  {
+   "heure": "Mardi · table de la cuisine",
+   "texte": "21 h 40. Il lui reste 17 notes.",
+   "debut": 0.0,
+   "scene": "dossier",
+   "horloge": "21 h 40"
+  },
+  {
+   "heure": "19 h",
+   "texte": "« Juste cinq minutes, papa ? »",
+   "style": "replique",
+   "debut": 8.25
+  },
+  {
+   "texte": "« Après mes notes, ma puce. » Quand il lève les yeux, Léa dort déjà, le livre ouvert.",
+   "debut": 13.3
+  },
+  {
+   "texte": "Une note écrite à chaud raconte un Patient ; une note écrite à minuit ne raconte qu'un dossier.",
+   "style": "morale",
+   "debut": 20.05
+  },
+  {
+   "texte": "SmileFlow prépare vos notes cliniques. Vous relisez, validez et signez avant de rentrer.",
+   "style": "produit",
+   "debut": 25.76
+  },
+  {
+   "texte": "Abonnez-vous pour toutes les nouveautés en dentisterie au Québec, au Canada et dans le monde entier.",
+   "style": "fin",
+   "debut": 32.88
+  }
+ ]
+}

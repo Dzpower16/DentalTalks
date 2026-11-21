@@ -1,0 +1,37 @@
+{
+ "duree": 36.09,
+ "scenes": [
+  {
+   "debut": 0.0,
+   "dit": "Aux États-Unis, une IA lit des radios dentaires. Avec le feu vert de la FDA."
+  },
+  {
+   "debut": 4.52,
+   "dit": "En mars 2022, la FDA a autorisé Second Opinion, de Pearl, un logiciel qui aide le dentiste à repérer les caries sur les radiographies."
+  },
+  {
+   "debut": 13.81,
+   "dit": "Au Québec, ce genre d'outil pose deux questions simples."
+  },
+  {
+   "debut": 16.78,
+   "dit": "Qui pose le diagnostic ? Toujours le dentiste."
+  },
+  {
+   "debut": 19.82,
+   "dit": "Où vont les images ? Ce sont des renseignements de santé, encadrés par la Loi 25."
+  },
+  {
+   "debut": 24.96,
+   "dit": "Une deuxième paire d'yeux, oui. Un pilote automatique, non."
+  },
+  {
+   "debut": 28.17,
+   "dit": "Tu laisserais une IA relire tes radios ?"
+  },
+  {
+   "debut": 30.35,
+   "dit": "Abonnez-vous pour toutes les nouveautés en dentisterie au Québec, au Canada et dans le monde entier."
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "titre": "Ta chaise vide coûte combien ?",
+ "tag": "Le calcul",
+ "pied": "Exemple fictif · faites-le avec vos vrais chiffres",
+ "scenes": [
+  {"type": "accroche", "taille": 1.25, "ecran": "Ta chaise vide coûte **combien** ?", "sans_sous": true, "dit": "Ta chaise vide coûte combien ? Le calcul tient en une ligne."},
+  {"type": "liste", "kicker": "Le calcul", "items": ["Valeur moyenne d'une plage", "× absences par semaine", "× semaines travaillées"], "dit": "Valeur moyenne d'une plage, fois le nombre d'absences par semaine, fois le nombre de semaines travaillées."},
+  {"type": "liste", "kicker": "Exemple fictif", "items": ["150 $ par plage", "× 3 absences par semaine", "× 46 semaines = **20 700 $** par année"], "dit": "Exemple, avec des chiffres fictifs : 150 $, 3 absences par semaine, 46 semaines. Ça donne 20 700 $ par année."},
+  {"type": "texte", "taille": 1.1, "ecran": "Fais-le avec **tes vrais chiffres**. Enregistre cette vidéo pour la prochaine réunion d'équipe.", "sans_sous": true, "dit": "Fais-le avec tes vrais chiffres, et enregistre cette vidéo pour la prochaine réunion d'équipe."}
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "titre": "Un bloc d'hygiène vide à 14 h : 1, 2 ou 3 ?",
+ "tag": "Agenda",
+ "pied": "Situation fictive · smileflow.ca",
+ "scenes": [
+  {"type": "accroche", "taille": 1.2, "ecran": "8 h 40. Le bloc d'hygiène de **14 h** vient de se libérer.", "visuel": "agenda", "sans_sous": true, "dit": "8 h 40. Le bloc d'hygiène de 14 h vient de se libérer."},
+  {"type": "chiffre", "kicker": "Option", "chiffre": "1", "ecran": "La réception sort la liste et appelle entre deux arrivées.", "dit": "Option 1 : la réception sort la liste et appelle entre deux arrivées."},
+  {"type": "chiffre", "kicker": "Option", "chiffre": "2", "ecran": "On espère que quelqu'un rappelle avant midi.", "dit": "Option 2 : on espère que quelqu'un rappelle avant midi."},
+  {"type": "sms", "kicker": "Option 3", "ecran": "La plage part par texto. **Le premier qui confirme la prend.**", "messages": [{"de": "clinique", "t": "Une plage s'est libérée aujourd'hui à 14 h (hygiène). Répondez OUI pour la prendre."}, {"de": "patient", "t": "OUI"}], "dit": "Option 3 : la plage part par texto aux Patients de la liste d'attente qui ont accepté d'être contactés. Le premier qui confirme la prend. Personne ne décroche le téléphone."},
+  {"type": "question", "taille": 1.2, "ecran": "Chez vous, c'est **1, 2 ou 3** ?", "sans_sous": true, "dit": "Chez vous, c'est 1, 2 ou 3 ? Répondez en commentaire."},
+  {"type": "texte", "kicker": "Votre PMS reste tel quel", "ecran": "SmileFlow fonctionne **en parallèle** de votre PMS, sans toucher à sa base de données.", "chips": ["Progident", "Dentitek", "ExcelDent"], "dit": "Progident, Dentitek, ExcelDent : SmileFlow fonctionne en parallèle de votre PMS, sans toucher à sa base de données."}
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "titre": "Les 3 phrases qu'on entend au fauteuil",
+ "tag": "Au fauteuil",
+ "pied": "Situation fictive · smileflow.ca",
+ "scenes": [
+  {"type": "accroche", "taille": 1.25, "ecran": "Les **3 phrases** qu'on entend au fauteuil.", "sans_sous": true, "dit": "Les trois phrases qu'on entend au fauteuil."},
+  {"type": "replique", "kicker": "Numéro 1", "ecran": "« Je passe la soie… des fois. »", "sans_sous": true, "dit": "« Je passe la soie… des fois. »"},
+  {"type": "replique", "kicker": "Numéro 2", "ecran": "« J'avais oublié mon rendez-vous. »", "sans_sous": true, "dit": "« J'avais oublié mon rendez-vous. »"},
+  {"type": "replique", "kicker": "Numéro 3", "ecran": "« Vous auriez une place demain ? »", "sans_sous": true, "dit": "« Vous auriez une place demain ? »"},
+  {"type": "texte", "visuel": "agenda", "ecran": "La 3e, c'est la seule qui **remplit l'agenda**.", "dit": "La troisième, c'est la seule qui remplit l'agenda. Encore faut-il savoir qu'une place vient de se libérer."},
+  {"type": "texte", "taille": 1.2, "ecran": "Identifie ton **hygiéniste préférée**.", "sans_sous": true, "dit": "Identifie ton hygiéniste préférée."}
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "titre": "Une IA lit des radios dentaires, avec le feu vert de la FDA",
+ "tag": "Radar mondial",
+ "pied": "Source : FDA, dossier K210365 (Pearl, Second Opinion), mars 2022",
+ "scenes": [
+  {"type": "accroche", "pill": "États-Unis", "ecran": "Une IA lit des radios dentaires. Avec le **feu vert de la FDA**.", "visuel": "radio", "dit": "Aux États-Unis, une IA lit des radios dentaires. Avec le feu vert de la FDA."},
+  {"type": "texte", "kicker": "Mars 2022 · FDA", "ecran": "Second Opinion, de Pearl : un logiciel qui **aide le dentiste** à repérer les caries sur les radiographies.", "dit": "En mars 2022, la FDA a autorisé Second Opinion, de Pearl, un logiciel qui aide le dentiste à repérer les caries sur les radiographies."},
+  {"type": "texte", "taille": 1.15, "pill": "Québec", "pill_o": true, "ecran": "Ce genre d'outil pose **deux questions simples**.", "sans_sous": true, "dit": "Au Québec, ce genre d'outil pose deux questions simples."},
+  {"type": "qr", "kicker": "Question 1", "question": "Qui pose le diagnostic ?", "reponse": "Toujours le dentiste.", "sans_sous": true, "dit": "Qui pose le diagnostic ? Toujours le dentiste."},
+  {"type": "qr", "kicker": "Question 2", "question": "Où vont les images ?", "reponse": "Des renseignements de santé, encadrés par la Loi 25.", "dit": "Où vont les images ? Ce sont des renseignements de santé, encadrés par la Loi 25."},
+  {"type": "versus", "lignes": [["Une 2e paire d'yeux : oui.", true], ["Un pilote automatique : non.", false]], "sans_sous": true, "dit": "Une deuxième paire d'yeux, oui. Un pilote automatique, non."},
+  {"type": "question", "taille": 1.15, "ecran": "Tu laisserais une IA **relire tes radios** ?", "cta": "Réponds en commentaire", "sans_sous": true, "dit": "Tu laisserais une IA relire tes radios ?"}
+ ]
+}

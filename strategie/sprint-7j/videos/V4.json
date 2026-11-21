@@ -1,0 +1,13 @@
+{
+ "titre": "Ta note est prête avant que le Patient paie",
+ "tag": "Scribe",
+ "pied": "Illustration · smileflow.ca",
+ "scenes": [
+  {"type": "accroche", "ecran": "Le Patient n'a pas encore payé. Le brouillon de ta note est **déjà là**.", "visuel": "note", "etat": "brouillon", "sans_sous": true, "dit": "Le Patient n'a pas encore payé. Le brouillon de ta note est déjà là."},
+  {"type": "note", "etat": "ecoute", "ecran": "Tu parles pendant la séance, **comme d'habitude**.", "dit": "Tu as parlé pendant la séance, comme d'habitude."},
+  {"type": "note", "etat": "relire", "ecran": "Tu relis. Tu corriges. **Tu valides, tu signes.**", "dit": "Tu relis. Tu corriges ce qui doit l'être. Tu valides, tu signes."},
+  {"type": "note", "etat": "signe", "ecran": "Rien n'est final **sans ta signature**.", "dit": "Rien n'est final sans ta signature. Et l'enregistrement audio est supprimé après validation."},
+  {"type": "texte", "taille": 1.15, "ecran": "Toi, tu restes **le clinicien**. L'outil, lui, tape.", "sans_sous": true, "dit": "Toi, tu restes le clinicien. L'outil, lui, tape."},
+  {"type": "question", "taille": 1.15, "ecran": "Il te reste **combien de notes** à finir ce soir ?", "cta": "Réponds en commentaire", "sans_sous": true, "dit": "Il te reste combien de notes à finir ce soir ?"}
+ ]
+}

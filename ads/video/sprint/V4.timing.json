@@ -1,0 +1,33 @@
+{
+ "duree": 27.25,
+ "scenes": [
+  {
+   "debut": 0.0,
+   "dit": "Le Patient n'a pas encore payé. Le brouillon de ta note est déjà là."
+  },
+  {
+   "debut": 3.87,
+   "dit": "Tu as parlé pendant la séance, comme d'habitude."
+  },
+  {
+   "debut": 6.61,
+   "dit": "Tu relis. Tu corriges ce qui doit l'être. Tu valides, tu signes."
+  },
+  {
+   "debut": 10.4,
+   "dit": "Rien n'est final sans ta signature. Et l'enregistrement audio est supprimé après validation."
+  },
+  {
+   "debut": 15.54,
+   "dit": "Toi, tu restes le clinicien. L'outil, lui, tape."
+  },
+  {
+   "debut": 18.59,
+   "dit": "Il te reste combien de notes à finir ce soir ?"
+  },
+  {
+   "debut": 21.51,
+   "dit": "Abonnez-vous pour toutes les nouveautés en dentisterie au Québec, au Canada et dans le monde entier."
+  }
+ ]
+}

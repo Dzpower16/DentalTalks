@@ -1,0 +1,33 @@
+{
+ "duree": 37.41,
+ "scenes": [
+  {
+   "debut": 0.0,
+   "dit": "8 h 40. Le bloc d'hygiène de 14 h vient de se libérer."
+  },
+  {
+   "debut": 4.36,
+   "dit": "Option 1 : la réception sort la liste et appelle entre deux arrivées."
+  },
+  {
+   "debut": 8.42,
+   "dit": "Option 2 : on espère que quelqu'un rappelle avant midi."
+  },
+  {
+   "debut": 11.48,
+   "dit": "Option 3 : la plage part par texto aux Patients de la liste d'attente qui ont accepté d'être contactés. Le premier qui confirme la prend. Personne ne décroche le téléphone."
+  },
+  {
+   "debut": 21.26,
+   "dit": "Chez vous, c'est 1, 2 ou 3 ? Répondez en commentaire."
+  },
+  {
+   "debut": 24.44,
+   "dit": "Progident, Dentitek, ExcelDent : SmileFlow fonctionne en parallèle de votre PMS, sans toucher à sa base de données."
+  },
+  {
+   "debut": 31.66,
+   "dit": "Abonnez-vous pour toutes les nouveautés en dentisterie au Québec, au Canada et dans le monde entier."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "titre": "POV : tu prends la réception pour une matinée",
+ "tag": "Réception",
+ "pied": "Situation fictive · smileflow.ca",
+ "scenes": [
+  {"type": "accroche", "taille": 1.3, "ecran": "POV : tu prends la réception pour **UNE** matinée.", "dit": "Tu prends la réception une seule matinée. Bonne chance."},
+  {"type": "heure", "heure": "8 h 02", "ecran": "Une Patiente annule son nettoyage de 10 h.", "visuel": "telephone", "dit": "8 h 02 : une Patiente annule son nettoyage de 10 h."},
+  {"type": "heure", "heure": "8 h 05", "ecran": "La liste d'attente ? Sur un papier jaune, sous l'écran.", "visuel": "postit", "dit": "8 h 05 : la liste d'attente… est sur un papier jaune, sous l'écran."},
+  {"type": "heure", "heure": "8 h 20", "ecran": "3 appels. 3 boîtes vocales.", "visuel": "vocale", "dit": "8 h 20 : trois appels. Trois boîtes vocales."},
+  {"type": "heure", "heure": "8 h 40", "ecran": "Comptoir plein, carte d'assurance illisible… et le téléphone qui sonne encore.", "visuel": "comptoir", "dit": "8 h 40 : deux Patients au comptoir, une carte d'assurance illisible, et le téléphone qui sonne encore."},
+  {"type": "heure", "heure": "9 h", "ecran": "Le bloc de 10 h est **toujours vide**.", "visuel": "agenda", "dit": "9 h : le bloc de 10 h est toujours vide."},
+  {"type": "texte", "kicker": "Pour elle", "ecran": "Identifie ta réceptionniste. Elle mérite **un café**.", "sans_sous": true, "dit": "Identifie ta réceptionniste. Elle mérite un café."},
+  {"type": "sms", "kicker": "Et si…", "ecran": "La plage libérée partait **toute seule** par texto ?", "messages": [{"de": "clinique", "t": "Une plage vient de se libérer aujourd'hui à 10 h. Répondez OUI pour la prendre."}, {"de": "patient", "t": "OUI"}], "dit": "Et si la plage libérée partait toute seule par texto à ta liste d'attente ? Le premier qui répond OUI la prend."}
+ ]
+}
