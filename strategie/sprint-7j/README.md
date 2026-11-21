@@ -53,7 +53,7 @@ Voir `scripts.md`.
 
 ## 3. Sprint de 7 jours
 
-Production : du 23 au 29 novembre. Voix : ElevenLabs (voix d'Amélie) dès que les crédits sont renouvelés (environ 600 à 700 crédits par vidéo de 40 s), ou la voix de Hacene enregistrée au téléphone. Images : cartes texte de `tools/story_video` et captures SmileFlow sans le mot « SOAP ».
+Vidéos produites le 21 novembre (voix off locale, voir plus haut) ; V3 reprend la voix d'Amélie.
 
 | Jour | Date | Vidéo | Instagram + Facebook | TikTok | YouTube Shorts | LinkedIn |
 |---|---|---|---|---|---|---|
@@ -70,6 +70,13 @@ Pour un test propre
 - **Une seule vidéo par jour** sur Instagram et Facebook : les capsules DentalTalks prévues ces jours-là (B12, A06, A09, B31, B05 et leurs affiches) sont décalées d'une semaine.
 - LinkedIn : les posts prévus les 1er, 3 et 4 décembre sont décalés ; le 7 décembre est libre.
 - TikTok : les capsules prévues à 19 h restent ; les vidéos du sprint passent à 12 h.
+
+Programmation en place (faite le 21 novembre 2026)
+- Instagram + Facebook : calendrier Make « DentalTalks calendrier IG/FB », clés `SP-V1` à `SP-V7` (Reels, fichiers `ads/video/Sprint_Vx.mp4`).
+- YouTube Shorts et LinkedIn (page SmileFlow) : calendrier Make de publication, clés `yt-2026-12-0x-sprint-vx` et `li-2026-12-0x-sprint-vx`.
+- TikTok : Metricool, 12 h chaque jour du 1er au 7 décembre (contenu déclaré généré par IA, à cause de la voix).
+- Décalés d'une semaine (+7 jours) : capsules DentalTalks B12, A06, A09, B31, B05, A07, A05 et leurs affiches, le Reel S07 (Instagram, Facebook, YouTube, TikTok) et les stories Metricool qui annoncent ces capsules.
+- LinkedIn déplacés : « Le corps du dentiste » au 15 déc., « On ne remplacera pas votre PMS » au 16, « Ordonnances » au 17, « Demain, 9 h » au 18 (même format 1, 2 ou 3 que V2).
 
 Ajustement en cours de route (après J3)
 - Une vidéo à ≥ 2 × la médiane de la baseline à 24 h → on refait ce format pour J6–J7 (script R1 ou R2, ou variante).
