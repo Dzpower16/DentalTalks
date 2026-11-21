@@ -1,6 +1,6 @@
 # Légendes des vidéos du sprint
 
-Chaque légende se termine par la phrase d'abonnement. Fichiers vidéo : `ads/video/sprint/<id>.mp4` (9:16), couverture `ads/video/sprint/<id>.jpg`.
+Chaque légende se termine par la phrase d'abonnement. Fichiers vidéo : `ads/video/Sprint_<id>.mp4` (9:16), couverture `ads/video/Sprint_<id>.jpg`.
 
 ## V1 · POV réception (J2, mer. 2 déc.)
 Elle fait ça tous les matins. Identifie la reine de ta réception 👑

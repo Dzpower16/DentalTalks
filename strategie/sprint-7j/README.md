@@ -7,9 +7,9 @@ Contenu du dossier
 - `donnees/baseline_2026-11-06_au_2026-11-20.csv` : baseline réelle (Metricool).
 - `donnees/tiktok_recherche_2026-11-20.csv` : échantillon Apify (150 vidéos TikTok, 30 derniers jours).
 - `videos/*.json` : le découpage scène par scène de chaque vidéo ; `videos/legendes.md` : les légendes à publier.
-- Vidéos finales : `ads/video/sprint/V1.mp4` à `V7.mp4`, `R1.mp4`, `R2.mp4` (9:16), avec une couverture `.jpg` chacune.
+- Vidéos finales : `ads/video/Sprint_V1.mp4` à `Sprint_V7.mp4`, `Sprint_R1.mp4`, `Sprint_R2.mp4` (9:16), avec une couverture `.jpg` chacune (noms à plat pour le relais média).
 
-Fabrication : `python3 tools/sprint_video/build.py --script strategie/sprint-7j/videos/V1.json --out ads/video/sprint/V1 --models <dossier Kokoro>`.
+Fabrication : `python3 tools/sprint_video/build.py --script strategie/sprint-7j/videos/V1.json --out ads/video/Sprint_V1 --models <dossier Kokoro>`.
 La voix off est générée localement (Kokoro, voix féminine française « ff_siwis », sans crédits) ; V3 reprend la voix d'Amélie (ElevenLabs) de la version longue, coupée à 40 s.
 
 ## 1. Tendances détectées
